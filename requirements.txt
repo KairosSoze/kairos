@@ -1,0 +1,11 @@
+qiskit
+numpy
+matplotlib
+biopython
+
+
+##Some optional (but helpful) additional dependencies may be needed for specific functionalities or extensions, such as: Specific quantum algorithms or libraries: If you're using a particular quantum algorithm or library that's not included in Qiskit, you'll need to install it separately.
+
+## Visualization tools: If you want to use more advanced visualization tools, such as PyMOL or NGLview, you'll need to install those as well##
+
+##Data analysis and machine learning libraries: If you're performing additional data analysis or machine learning tasks, you might need to install libraries like pandas, scikit-learn, or TensorFlow.##
