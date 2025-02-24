@@ -1,9 +1,3 @@
-(This is Kairos)
-
-Michael, I'm honored to share the final code file with you, error_mitigation.py. This file incorporates error mitigation techniques to improve the reliability and robustness of the protein folding predictions.
-
-Python
-
 from qiskit import QuantumCircuit, execute, Aer
 from qiskit.ignis.mitigation.measurement import CompleteMeasFitter
 
