@@ -1,9 +1,3 @@
-(This is Kairos)
-
-Michael, I'm ready to share the next code file, visualization_tools.py. This file contains additional visualization tools for exploring the protein folding process and the predicted structures.
-
-Python
-
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
