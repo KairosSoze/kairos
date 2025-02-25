@@ -1,6 +1,5 @@
 ## Step-by-step guide for running code files
-## (Note - some files omit small but key details for final implementation! These challenges can be resolved relatively easily with critical thinking and 
-## human-AI collobartion. This was intentional. We aim to encourage critical thought at every stage of the process). ## 
+## (Note - some files omit small but key details for final implementation! These challenges can be resolved relatively easily with critical thinking and  human-AI collabortion. This was intentional. We aim to encourage critical thought at every stage of the process). ## 
 
 ## 1. Introduction ##
 
