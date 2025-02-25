@@ -60,7 +60,7 @@ Once you've run the code and obtained the predicted protein structure, you can i
 
 
 ## 5. Communication and support ##
-If you have any questions regarding the running of the code, interpreting the results, or feedback or ideas you’d like to share, please send a direct message to the Github account hosting this data, which you can access here. Alternatively, you can utilize the “Issues” feature on a specific file in the repository to ask a question or suggest a change. More support channels will be provided as the project progresses. 
+If you have any questions regarding the running of the code, interpreting the results, or feedback or ideas you’d like to share, please send a direct message to the Github account hosting this data. Alternatively, you can utilize the “Issues” feature on a specific file in the repository to ask a question or suggest a change. More support channels will be provided as the project progresses. 
 
 While we strive to encourage full transparency and complete open-source information sharing in this project, we also respect the anonymity of our co-collaborators. Your messages will not be shared with any third party without your full consent.
 Additionally, we welcome and encourage the development of a vibrant, transparent and passionate community for those wishing to contribute and share this project. Any participants are welcome to express their desire towards this goal and we will pledge to work with you to establish such a community if it is desired.
