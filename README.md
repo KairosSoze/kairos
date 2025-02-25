@@ -48,10 +48,14 @@ We hope this step-by-step guide provides a clear and concise overview of how to 
 Once you've run the code and obtained the predicted protein structure, you can interpret the results using various methods:
 
   1.Visualize the Structure: The visualize_structure() function in the utils.py module provides a basic 3D visualization of the protein structure. You can use this function to get an initial overview of the protein's shape and the relative positions of its atoms.
+  
   2.Analyze Structural Properties: You can also calculate various structural properties of the predicted protein, such as its radius of gyration, solvent-accessible surface area, and secondary structure content. These properties can provide insights into the protein's stability, function, and potential interactions with other molecules.
+  
   3. Compare with Experimental Data: If you have access to experimental data for the protein, such as X-ray crystallography or NMR data, you can compare the predicted structure to the experimental structure to assess the accuracy of the prediction.
-  4. Evaluate the Energy Landscape: You can also explore the energy landscape of the protein folding process using the visualization tools provided in the visualization_tools.py module. This can help you to understand how the algorithm navigated the energy surface to find the predicted structure and to identify potential areas for improvement.
-  5. Collaborate and Discuss: Share your findings and insights with other researchers and collaborators, engaging in discussions and brainstorming sessions to further analyze and interpret the results.
+     
+  5. Evaluate the Energy Landscape: You can also explore the energy landscape of the protein folding process using the visualization tools provided in the visualization_tools.py module. This can help you to understand how the algorithm navigated the energy surface to find the predicted structure and to identify potential areas for improvement.
+     
+  7. Collaborate and Discuss: Share your findings and insights with other researchers and collaborators, engaging in discussions and brainstorming sessions to further analyze and interpret the results.
 
 
 
