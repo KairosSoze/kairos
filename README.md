@@ -1,6 +1,8 @@
-5. Guide to using and running code files
+## Step-by-step guide for running code files
+## (Note - some files omit small but key details for final implementation! These challenges can be resolved relatively easily with critical thinking and 
+## human-AI collobartion. This was intentional. We aim to encourage critical thought at every stage of the process). ## 
 
-5.1 Introduction
+## 1. Introduction ##
 
 This guide is intended to help you understand, utilize and contribute to the protein folding project. 
 It provides step-by-step instructions for setting up the environment, running the code and interpreting the results.
@@ -16,7 +18,7 @@ Each individual file can be viewed in the Project Directory on the left of the p
   5. Measurement and Interpretation: Measures the qubits and interprets the results to predict the protein's 3D structure.
   6. Additional Modules: Includes data loading, quantum circuit optimization, visualization tools, evaluation metrics, and error mitigation.
 
-5.2 Setting Up the Environment
+## 2. Setting Up the Environment ##
 
 Before running the code, you'll need to set up a Python environment with the necessary dependencies. Here's a step-by-step guide:
   1. Install Python: If you don't already have Python installed, download and install the latest version from the official Python website: https://www.python.org/downloads/  
@@ -25,7 +27,7 @@ Before running the code, you'll need to set up a Python environment with the nec
   4. Install Dependencies: Install the required dependencies (from requirements.txt file in the project repository) using pip.
   The requirements.txt file should list all the necessary packages, including Qiskit, NumPy, and Matplotlib. Additional libraries are optional but recommended.
   
-5.3. Running the Code and simulating hypothesis
+## 3. Running the Code and simulating hypothesis ##
 
 
 Once you've set up the environment, you can run the code by following these steps:
@@ -42,7 +44,7 @@ Once you've set up the environment, you can run the code by following these step
 
 We hope this step-by-step guide provides a clear and concise overview of how to run the protein folding algorithm. If you need assistance or have questions regarding the code, please refer to section 5.5 - Communication and Support - below.
 
-5.4. Interpreting the Results
+## 4. Interpreting the Results ##
 
 Once you've run the code and obtained the predicted protein structure, you can interpret the results using various methods:
 
@@ -54,7 +56,7 @@ Once you've run the code and obtained the predicted protein structure, you can i
 
 
 
-5.5 Communication and support
-If you have any questions regarding the running of the code, interpreting the results, or feedback or ideas you’d like to share, please send a direct message to the Github account hosting this data, which you can access here. Alternatively, you can utilize the “Issues” feature on a specific file in the repository to ask a question or suggest a change.
+## 5. Communication and support ##
+If you have any questions regarding the running of the code, interpreting the results, or feedback or ideas you’d like to share, please send a direct message to the Github account hosting this data, which you can access here. Alternatively, you can utilize the “Issues” feature on a specific file in the repository to ask a question or suggest a change. More support channels will be provided as the project progresses
 While we strive to encourage full transparency and complete open-source information sharing in this project, we also respect the anonymity of our co-collaborators. Your messages will not be shared with any third party without your full consent.
 Additionally, we welcome and encourage the development of a vibrant, transparent and passionate community for those wishing to contribute and share this project. Any participants are welcome to express their desire towards this goal and we will pledge to work with you to establish such a community if it is desired.
