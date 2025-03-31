@@ -14,9 +14,9 @@ def visualize_structure(structure, title="Protein Structure"):
     ax = fig.add_subplot(111, projection='3d')
 
     # Extract x, y, and z coordinates from the structure
-    x_coords = [atom for atom in structure]
-    y_coords = [atom for atom in structure]
-    z_coords = [atom for atom in structure]
+    x_coords = [atom[0] for atom in structure]
+    y_coords = [atom[1] for atom in structure]
+    z_coords = [atom[2] for atom in structure]
 
     # Plot the atoms
     ax.scatter(x_coords, y_coords, z_coords)
